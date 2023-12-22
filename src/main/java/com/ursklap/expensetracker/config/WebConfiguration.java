@@ -1,4 +1,4 @@
-package com.ursklap.expensetracker.configs;
+package com.ursklap.expensetracker.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;

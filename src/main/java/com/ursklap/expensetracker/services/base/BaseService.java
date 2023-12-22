@@ -2,6 +2,7 @@ package com.ursklap.expensetracker.services.base;
 
 import com.ursklap.expensetracker.models.base.BaseEntity;
 import com.ursklap.expensetracker.repositories.base.BaseRepository;
+import com.ursklap.expensetracker.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Primary;
 import org.springframework.http.HttpStatus;
